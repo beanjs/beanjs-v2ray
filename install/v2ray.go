@@ -6,7 +6,7 @@ import (
 	"fmt"
 	"log"
 
-	"git.beanjs.com/wangjun/beanjs-v2ray/config"
+	"github.com/beanjs/beanjs-v2ray/config"
 	"github.com/google/uuid"
 )
 

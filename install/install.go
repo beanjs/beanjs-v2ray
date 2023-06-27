@@ -5,8 +5,8 @@ import (
 	"strings"
 	"time"
 
-	"git.beanjs.com/wangjun/beanjs-v2ray/config"
 	"github.com/appleboy/easyssh-proxy"
+	"github.com/beanjs/beanjs-v2ray/config"
 )
 
 type SSHConfiguration struct {

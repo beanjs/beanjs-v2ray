@@ -7,7 +7,7 @@ import (
 	"strconv"
 	"time"
 
-	"git.beanjs.com/wangjun/beanjs-v2ray/config"
+	"github.com/beanjs/beanjs-v2ray/config"
 	"github.com/vultr/govultr/v3"
 	"golang.org/x/oauth2"
 )

@@ -1,4 +1,4 @@
-module git.beanjs.com/wangjun/beanjs-v2ray
+module github.com/beanjs/beanjs-v2ray
 
 go 1.20
 

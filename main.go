@@ -4,9 +4,9 @@ import (
 	"log"
 	"time"
 
-	"git.beanjs.com/wangjun/beanjs-v2ray/config"
-	"git.beanjs.com/wangjun/beanjs-v2ray/install"
-	"git.beanjs.com/wangjun/beanjs-v2ray/vultr"
+	"github.com/beanjs/beanjs-v2ray/config"
+	"github.com/beanjs/beanjs-v2ray/install"
+	"github.com/beanjs/beanjs-v2ray/vultr"
 )
 
 func main() {
